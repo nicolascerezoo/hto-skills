@@ -20,7 +20,7 @@ mercado hispanohablante. Dos modos:
 ## Instalar en Claude Code
 
 ```
-/plugin marketplace add darioporta/hto-skills
+/plugin marketplace add nicolascerezoo/hto-skills
 /plugin install oferta-irresistible@hto-skills
 ```
 
@@ -29,9 +29,6 @@ Para actualizar más adelante:
 ```
 /plugin marketplace update hto-skills
 ```
-
-> Si el repositorio está en otra cuenta, sustituye `darioporta/hto-skills` por
-> `<usuario>/hto-skills`.
 
 ---
 
