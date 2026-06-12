@@ -1,0 +1,17 @@
+{
+  "name": "hto-skills",
+  "description": "Skills de High Ticket Operator para construir y auditar ofertas, VSLs y activos de negocio high-ticket.",
+  "version": "1.0.0",
+  "owner": {
+    "name": "High Ticket Operator",
+    "url": "https://highticketoperator.io"
+  },
+  "plugins": [
+    {
+      "name": "oferta-irresistible",
+      "source": "./plugins/oferta-irresistible",
+      "description": "Construye o audita ofertas high-ticket irresistibles (mercado hispanohablante). Modo CREAR (10 bloques guiados) y modo REVISAR (auditoría de oferta existente).",
+      "version": "1.0.0"
+    }
+  ]
+}
