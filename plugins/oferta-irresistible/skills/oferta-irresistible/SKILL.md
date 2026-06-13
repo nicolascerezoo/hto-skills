@@ -46,6 +46,19 @@ negocio o el ICP tiene un agujero, lo dices.
 
 Si no está claro, pregúntalo en una frase.
 
+## Input de máximo valor: transcripciones de llamadas de venta
+
+**Tanto en CREAR como en REVISAR, pregunta siempre de entrada si tiene
+transcripciones de llamadas de venta reales.** Es el input que más sube la
+calidad: las objeciones, los dolores y las palabras del cliente salen de datos,
+no de la opinión del dueño. Si las tiene, carga `referencia/analisis-llamadas.md`
+y haz el análisis ANTES del Bloque 1; vuelca el resultado en
+`plantillas/objeciones-llamadas.md` y persiste el mapa de objeciones en
+`estado-oferta.md`. Si las tiene desperdigadas o no las tiene, ofrécele ayuda
+para reunirlas (Fathom/Fireflies/tl;dv/Otter/Zoom) — 5+ llamadas, priorizando
+las que NO cerraron. Si aun así no hay, sigue con el método de interview normal,
+pero dile lo que está dejando sobre la mesa.
+
 ## Antes de cualquier bloque: lee la referencia
 
 Carga **siempre** `referencia/framework.md` (value equation, jerarquía de
@@ -69,6 +82,10 @@ Cada bloque está detallado en `referencia/framework.md`. Resumen del flujo:
 - **Fallback sin ICP.** Si no hay documento de ICP o está incompleto, antes
   del Bloque 1 haz las 5 preguntas mínimas de avatar (quién es, qué vende, qué
   factura, qué le duele, qué ha probado).
+- **Bloque 0.5 — Análisis de llamadas (si hay transcripciones).** Carga
+  `referencia/analisis-llamadas.md`, extrae objeciones (rankeadas), voz del
+  cliente, dolores y razones de no-cierre → `plantillas/objeciones-llamadas.md`.
+  Alimenta Bloques 1, 5 y 9.
 - **Bloque 1 — ICP y problemas del avatar.** Cruza ICP con Bloque 0. 5-7
   problemas clasificados en Técnicos / Psicológicos / Logísticos. Los valida
   el usuario, no tú.
@@ -80,9 +97,11 @@ Cada bloque está detallado en `referencia/framework.md`. Resumen del flujo:
   checkpoint: "¿te sentirías cómodo diciéndolo en una llamada?".
 - **Bloque 4 — Offer stack.** Problema a problema: cómo lo resuelve y qué tiene
   ya creado. Nombres orientados a resultado, no a entregable. Regla de oro.
-- **Bloque 5 — Bonuses.** Construidos desde las objeciones reales de llamadas
-  de venta. Accionables, con valor monetario (solo interno), solo disponibles
-  al entrar. **Nunca descuentos — siempre añadir valor.**
+- **Bloque 5 — Bonuses.** Construidos desde las objeciones reales (del mapa de
+  `objeciones-llamadas.md` si existe; si no, de las que reporte el usuario).
+  Cada bonus mata una objeción top sin respuesta. Accionables, con valor
+  monetario (solo interno), solo disponibles al entrar. **Nunca descuentos —
+  siempre añadir valor.**
 - **Bloque 6 — Garantía.** Decisión de negocio, no de copy. Tres tipos:
   Condicional / Anti-garantía / Performance. Checkpoint de sostenibilidad:
   "¿lo aguantas si el 10% reclama?".
@@ -92,10 +111,12 @@ Cada bloque está detallado en `referencia/framework.md`. Resumen del flujo:
 - **Bloque 7.5 — Escasez y urgencia.** Convierte la capacidad real declarada en
   Bloque 0 en escasez honesta ("solo X plazas/mes"). Nunca escasez falsa.
 - **Bloque 8 — Nombre + generación de los dos documentos.**
-- **Bloque 9 — Stress test.** Ataca la oferta como un lead escéptico (5-8
-  objeciones duras: "¿por qué tú y no una agencia?", "¿y si no tengo leads?").
-  Verifica que cada ataque tiene respuesta en el stack, los bonuses o la
-  garantía. Lo que quede sin respuesta, lo señalas y propones el parche.
+- **Bloque 9 — Stress test.** Ataca la oferta como un lead escéptico. Si hay
+  mapa de objeciones, **usa las objeciones reales top como los ataques**
+  (priorízalas por frecuencia y peso); si no, usa las duras genéricas ("¿por
+  qué tú y no una agencia?", "¿y si no tengo leads?"). Verifica que cada ataque
+  tiene respuesta en el stack, los bonuses o la garantía. Lo que quede sin
+  respuesta, lo señalas y propones el parche.
 
 ## Los dos documentos
 

@@ -14,6 +14,11 @@ hagas el proceso completo de bloques. Audítala contra el framework y devuelve u
 5. **Prioriza**: marca cada hallazgo como 🔴 crítico / 🟡 mejora / 🟢 pulido.
 6. Si falta información del negocio para juzgar un eje, **pregunta** — no
    asumas. (Ej: no puedes validar la garantía sin saber el coste de entrega.)
+7. **Pregunta si tiene transcripciones de llamadas.** Si las hay, analízalas
+   con `analisis-llamadas.md`: el stress test (eje 7) deja de ser hipotético y
+   se hace contra las objeciones REALES rankeadas. Es la diferencia entre "creo
+   que esto objeta" y "esto objeta el 70% de tus llamadas y la oferta no lo
+   responde".
 
 No reescribas la oferta entera salvo que te lo pidan. El output es el informe.
 

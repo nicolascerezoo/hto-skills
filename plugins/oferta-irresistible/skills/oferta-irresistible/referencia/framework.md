@@ -93,10 +93,20 @@ Si no hay documento de ICP o está incompleto, haz las 5 preguntas mínimas de
 avatar: quién es, qué vende, qué factura, qué le duele, qué ha probado (y por
 qué no le funcionó).
 
+### Bloque 0.5 — Análisis de llamadas (si hay transcripciones)
+
+Si el usuario aporta transcripciones de llamadas de venta, analízalas **antes
+del Bloque 1** con el método de `analisis-llamadas.md`. Saca objeciones
+rankeadas, voz del cliente (palabras exactas), dolores reales y razones de
+no-cierre → `objeciones-llamadas.md`. Este mapa es la materia prima de los
+Bloques 1 (problemas), 5 (bonuses) y 9 (stress test). Si no hay transcripciones,
+sáltalo y usa el método de interview, avisando de lo que se pierde.
+
 ### Bloque 1 — ICP y problemas del avatar
 
-Cruza el ICP con lo del Bloque 0. Extrae **5-7 problemas** del avatar y
-clasifícalos:
+Cruza el ICP con lo del Bloque 0. Si hay mapa de objeciones (Bloque 0.5), los
+problemas salen **de ahí, en las palabras reales del cliente**, no de la opinión
+del dueño. Extrae **5-7 problemas** del avatar y clasifícalos:
 
 - **Técnicos** — lo que no sabe hacer / no tiene montado (funnel, ads, CRM…).
 - **Psicológicos** — miedos, frustraciones, identidad ("trabajo más que nunca y
@@ -173,8 +183,10 @@ tienes ya creado para resolverlo?".
 
 ### Bloque 5 — Bonuses
 
-Se construyen **desde las objeciones reales** de llamadas de venta. Cada bonus
-mata una objeción concreta.
+Se construyen **desde las objeciones reales** de llamadas de venta. Si existe el
+mapa de `objeciones-llamadas.md`, los bonuses atacan las **objeciones top sin
+respuesta**, rankeadas por frecuencia y peso. Cada bonus mata una objeción
+concreta.
 
 - Accionables, con valor monetario (solo interno), **solo disponibles al
   entrar** (escasez honesta del bonus).
@@ -222,7 +234,9 @@ La urgencia real nace de la capacidad y del coste de oportunidad de no empezar.
 
 ### Bloque 9 — Stress test
 
-Ataca la oferta final como un **lead escéptico**. 5-8 objeciones duras, p. ej.:
+Ataca la oferta final como un **lead escéptico**. Si hay mapa de objeciones,
+**usa las objeciones reales top como los ataques** (no inventes otras). Si no,
+usa 5-8 objeciones duras genéricas, p. ej.:
 
 - "¿Por qué tú y no una agencia que me lo hace todo?"
 - "¿Y si no tengo leads / no tengo tráfico todavía?"
