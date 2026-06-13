@@ -83,6 +83,19 @@
 **Recomendación de cobro:** [pago único + PIF / financiación externa / empaquetar año]
 **Escasez honesta:** [X plazas/mes según capacidad del Bloque 0]
 
+### Validación económica (motor)
+
+> Ver `referencia/motor-economico.md`. Rellenar con números reales del cliente.
+
+- Coste de entrega total (CE): [€] = directo [€] + horas [h] × coste-hora [€]
+- Margen bruto por venta (MB): **[€]** ([%]) — sano si ≥60%
+- Coste esperado de garantía: [€] · Margen ajustado: [€]
+- Peor caso (todos reclaman): [€] — garantía sostenible si ≥0
+- Techo de ingresos/mes (capacidad × precio): [€]
+- **Techo de CAC:** breakeven [€] · sano [€]–[€] · objetivo (×[M]) **[€]**
+- **Coste máximo por aplicación (para el media buyer): [€]**
+- Diagnóstico: [margen / garantía / CAC / cuello de entrega]
+
 ### Secuencia de revelación (para llamada/VSL)
 1. Anchor: [valor/coste alternativa]
 2. Justificación: [qué incluye]

@@ -107,7 +107,11 @@ Cada bloque está detallado en `referencia/framework.md`. Resumen del flujo:
   "¿lo aguantas si el 10% reclama?".
 - **Bloque 7 — Pricing.** Carga `referencia/pricing-cash-first.md`. Maximizar
   **cash collected up front**. Incluye checkpoint **ratio 10:1** (contra el
-  valor del resultado, no solo la suma del stack).
+  valor del resultado, no solo la suma del stack). Y corre el **motor económico**
+  (`referencia/motor-economico.md`): margen, sostenibilidad de garantía, techo de
+  ingresos y **techo de CAC + coste máx por aplicación** para el media buyer →
+  sección "Validación económica" de `oferta-interna.md`. Script opcional:
+  `scripts/motor_economico.py`.
 - **Bloque 7.5 — Escasez y urgencia.** Convierte la capacidad real declarada en
   Bloque 0 en escasez honesta ("solo X plazas/mes"). Nunca escasez falsa.
 - **Bloque 8 — Nombre + generación de los dos documentos.**

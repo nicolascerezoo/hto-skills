@@ -219,6 +219,12 @@ mensualizar, tiers si aplica. Incluye **checkpoint ratio 10:1** (valor del
 resultado ÷ precio ≥ 10, medido contra el resultado para el cliente, no solo
 contra la suma del stack).
 
+**Motor económico (obligatorio antes de cerrar el precio):** carga
+`motor-economico.md` y valida margen, coste y sostenibilidad de la garantía,
+techo de ingresos por capacidad, y el **techo de CAC + coste máximo por
+aplicación** que se le pasa al media buyer. Sin esto, el precio es una opinión.
+Vuelca el resultado en la sección "Validación económica" de la oferta-interna.
+
 ### Bloque 7.5 — Escasez y urgencia
 
 Convierte la **capacidad real** declarada en Bloque 0 en escasez honesta:
