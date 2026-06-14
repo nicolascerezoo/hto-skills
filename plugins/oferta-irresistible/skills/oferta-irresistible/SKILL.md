@@ -89,9 +89,13 @@ Cada bloque está detallado en `referencia/framework.md`. Resumen del flujo:
 - **Bloque 1 — ICP y problemas del avatar.** Cruza ICP con Bloque 0. 5-7
   problemas clasificados en Técnicos / Psicológicos / Logísticos. Los valida
   el usuario, no tú.
-- **Bloque 2 — Promesa principal.** Fórmula: "Llevo a [avatar] de [situación]
-  a [resultado medible] en [plazo] sin [sacrificio]". Si no lo ha conseguido
-  ya con clientes reales, **se suaviza hasta ser defendible**.
+- **Bloque 2 — Promesa principal.** Debe cumplir 4 elementos:
+  **situación específica → resultado específico · con [mecanismo específico] ·
+  en [tiempo determinado]**, y como cierre opcional potente, **sin [sacrificio]**.
+  Fórmula: "Llevo a [situación] a [resultado medible] con [mecanismo] en [plazo],
+  sin [sacrificio]". El mecanismo en la promesa la diferencia de las genéricas.
+  Si no lo ha conseguido ya con clientes reales, **se suaviza hasta ser
+  defendible**.
 - **Bloque 3 — Mecanismo único.** Articula lo que ya hace; no inventes nombres
   cool. 2-3 propuestas de nombre + explicación para alguien de 15 años +
   checkpoint: "¿te sentirías cómodo diciéndolo en una llamada?".
@@ -140,29 +144,31 @@ no como una landing de lanzamiento. Estructura EXACTA (modelada sobre la carta
 del Acelerador — ver `referencia/ejemplo-carta-hto.md`):
 
 1. **Nombre de la oferta** (título).
-2. **Promesa** en 1-2 frases: "Te ayudaremos a [resultado] [plazo/condición],
-   [sin sacrificio]".
+2. **Promesa** — debe cumplir: situación específica → resultado específico ·
+   con [mecanismo específico] · en [tiempo determinado] · sin [sacrificio]
+   (cierre opcional). El mecanismo dentro de la promesa es lo que la diferencia.
 3. **"Esto es perfecto para ti si..."** — 3-4 bullets de cualificación
    positiva. **NO incluir sección "para quién no es".**
 4. **Qué construimos contigo / para ti** — el corazón. Encuadre según el modelo
    de entrega del Bloque 0: **DWY → "contigo"**, **DFY → "para ti"**, Híbrida →
-   el que domine. 3-5 componentes (nunca más). Cada componente:
+   el que domine. **3-5 componentes (nunca más)**, que sigan el proceso real que
+   el coach/consultor/agencia aplica con sus clientes. Cada componente:
    - **Título orientado a resultado**, sin la palabra "Pilar" ni "Componente"
      (ej: "Tu sistema operativo a medida: ves y controlas todo tu negocio en un
      sitio").
-   - **3-5 bullets de entregables TANGIBLES**, no párrafos. Cada bullet es
-     **acción → resultado** ("hacemos X para conseguir Y"), no un statement
-     suelto ("ahora todo va más rápido"). Lo más concreto posible: nombres,
-     métricas, números, qué ve y toca el cliente. La tangibilidad sube el valor
-     percibido — sin poner € por componente.
-   - **Una línea de cierre** de "qué cambia para ti" (el beneficio en cursiva o
-     aparte).
+   - **3-5 bullets de entregables específicos enfocados al beneficio.** Cada
+     bullet es **acción → beneficio** ("hacemos X para conseguir Y"), no un
+     statement suelto. Pueden nombrar el formato del entregable (ej: "llamadas
+     1:1 a demanda", "2 sesiones para X") siempre orientado al beneficio. Lo más
+     concreto y tangible posible — sin poner € por componente.
+   - **Una línea de cierre** de "qué cambia para ti" (en cursiva o aparte).
    - **Si hay un mecanismo secuencial con nombre** (MADE, los 4 pasos de X…),
      usa sus fases como los componentes y **fusiona aquí "El proceso"** (no
      repitas las fases en dos secciones). Cada fase: nombre + plazo + bullets
-     acción→resultado + cierre.
-5. **Bonuses exclusivos** — nombrados, con contexto de qué hacen, sin tabla de
-   valores.
+     acción→beneficio + cierre.
+5. **Bonuses exclusivos** — **2-4 bonos**, misma estructura que los componentes:
+   título + 2-4 bullets de entregables enfocados al beneficio. Sin tabla de
+   valores en €.
 6. **El proceso** — hitos con plazos (Hito 1 semanas 1-3, etc.).
 7. **Inversión** — SIEMPRE con precios visibles. Tiers si aplica (DWY /
    Híbrida / DFY), cada uno con precio, qué incluye y descuento por pago al
@@ -177,7 +183,11 @@ en markdown limpio.
 ## Convenciones de salida
 
 - Carpeta por cliente: `ofertas/<nombre-cliente>/`.
-- Tres archivos: `oferta-interna.md`, `carta-presentacion.md`, `estado-oferta.md`.
+- Archivos: `oferta-interna.md`, `carta-presentacion.md`, `estado-oferta.md`.
 - Usa las plantillas de `plantillas/` como base.
+- **La carta se entrega como documento estético por defecto.** Tras escribir
+  `carta-presentacion.md`, genera `carta-presentacion.html` con el estándar de
+  `referencia/estilo-carta.md` (Inter + títulos en verde `#15803d`) y, si hay
+  acceso a Google Docs, crea el Doc y compártelo. No te quedes solo en markdown.
 - Tras escribir cualquier archivo, no lo pegues entero en el chat: confirma la
   ruta y resume lo generado.

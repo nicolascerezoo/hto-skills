@@ -118,13 +118,17 @@ son reales y cuáles sobran.
 
 ### Bloque 2 — Promesa principal
 
-Fórmula base:
+Fórmula base — debe cumplir **situación + resultado + mecanismo + tiempo**, con
+el sacrificio como cierre opcional:
 
-> "Llevo a **[avatar]** de **[situación actual]** a **[resultado medible]** en
-> **[plazo]** sin **[sacrificio principal]**."
+> "Llevo a **[avatar]** de **[situación actual]** a **[resultado medible]** con
+> **[mecanismo específico]** en **[plazo]**, sin **[sacrificio principal]**."
 
 Reglas:
 - El resultado tiene que ser **medible** (cifra, hito concreto).
+- **Mete el mecanismo en la promesa.** La mayoría promete resultado sin decir el
+  cómo; nombrar el mecanismo te diferencia y sube la credibilidad. El "sin
+  [sacrificio]" es opcional pero potente (ataca el esfuerzo percibido).
 - **Defendibilidad:** si no lo ha conseguido ya con clientes reales, la promesa
   se suaviza hasta que pueda defenderla en una llamada sin mentir. Pasa de
   "garantizo X" a "te ayudo a construir el sistema para X".
@@ -188,6 +192,8 @@ mapa de `objeciones-llamadas.md`, los bonuses atacan las **objeciones top sin
 respuesta**, rankeadas por frecuencia y peso. Cada bonus mata una objeción
 concreta.
 
+- **2-4 bonos**, misma estructura que los componentes (título + 2-4 bullets de
+  entregables enfocados al beneficio).
 - Accionables, con valor monetario (solo interno), **solo disponibles al
   entrar** (escasez honesta del bonus).
 - **Nunca descuentos.** Para mover la decisión se **añade valor**, no se baja

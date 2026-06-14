@@ -3,11 +3,13 @@
 > Carta de cara al lead. SIN valores en € de componentes, SIN value stack, SIN
 > "valor total percibido". Se lee como un documento serio de una empresa que
 > opera. Estructura y tono: ver `referencia/ejemplo-carta-skeleton.md`.
-> Datos que falten → `[FALTA: x]`, nunca inventar.
+> Se entrega como documento estético por defecto (Inter + títulos verdes) —
+> ver `referencia/estilo-carta.md`. Datos que falten → `[FALTA: x]`, nunca inventar.
 
 ## Promesa
 
-> [Resultado concreto] en [plazo/condición], sin [sacrificio]. 1-2 frases.
+> Debe cumplir: [situación específica] → [resultado específico] · con [mecanismo
+> específico] · en [tiempo determinado] · sin [sacrificio] (cierre opcional).
 
 ## Esto es perfecto para ti si...
 
@@ -46,13 +48,15 @@
 
 ## Bonuses exclusivos (solo al entrar)
 
+<!-- 2-4 bonos, misma estructura que los componentes: título + 2-4 bullets. -->
+
 ### [Nombre del bonus 1]
-- [Entregable tangible.]
+- [Entregable tangible enfocado al beneficio.]
 - [Entregable tangible.]
 - [Qué objeción mata / qué consigue.]
 
 ### [Nombre del bonus 2]
-- [Entregable tangible.]
+- [Entregable tangible enfocado al beneficio.]
 - [Entregable tangible.]
 - [Qué objeción mata / qué consigue.]
 
