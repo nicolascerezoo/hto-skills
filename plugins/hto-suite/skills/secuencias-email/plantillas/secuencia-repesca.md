@@ -1,93 +1,34 @@
 # Secuencia de Repesca — [cliente]
 
-> Para quien aplicó/mostró interés y NO agendó. Reactivar → agendar.
-> Estilo carta-de-amigo (Isra) en la voz del cliente. Texto plano, sin HTML.
-> Casos y objeciones reales — nunca inventados.
+> 20 emails (8 intensos D1-7 + 12 largos D8-30) para quien aplicó y NO agendó.
+> Estilo carta-de-amigo en la voz del cliente. Casos y objeciones reales.
+> Doctrina y reglas: `referencia/repesca.md`.
 
-**Oferta que vende:** [promesa + mecanismo en una línea]
-**Voz:** [referencia a voice-profile.md]
-**Objeciones reales usadas:** [del mapa de objeciones]
+**Oferta que vende:** [promesa + mecanismo]
+**Voz:** [voice-profile.md] · **Objeciones reales:** [del mapa]
+**Big Idea de la secuencia:** [la tesis que hace que agendar sea lo lógico]
+**Dolor madre:** [en 1ª persona del lead] · **3 objeciones:** [1, 2, 3]
+**Through-line emocional:** [estado → estado → estado]
 
----
+## Plan de los 20 (revísalo antes de escribir)
 
-## Email 1 — Recordatorio suave · delay: día 0-1
-**ASUNTO:** [curiosidad, 5-9 palabras]
+| # | Día | Arquetipo | Asunto | Ángulo | Resp. del form (1-5) | CTA |
+|---|---|---|---|---|---|---|
+| 01 | D1 | Recordatorio | [...] | [...] | [dolor declarado] | Agendar |
+| … | … | … | | | | |
+| 20 | D30 | Cierre | [...] | "te saco de la lista" | — | Agendar/baja |
 
-[Apertura con anécdota/curiosidad]
-[Desarrollo]
-[Puente al insight]
-[Insight]
+<!-- Base probada en referencia/repesca.md; ajusta al ICP. Ningún arquetipo 2x seguidas. -->
 
-[CTA al final, despreocupado → agendar]
+## Emails (formato por email; repite los 20)
 
-— [firma]
+### Email 01 — D1 · Recordatorio
+**ASUNTO:** [curiosidad/impacto/beneficio/provocación — 5-9 palabras]
 
----
+[Golpe 1: apertura con curiosidad]
+[Golpe 2: info/insight]
+[Golpe 3: cuña/CTA despreocupado → agendar]
 
-## Email 2 — El coste de seguir igual · delay: +2 días
-**ASUNTO:** [...]
+— [firma: solo nombre]
 
-[cuerpo]
-
-[CTA → agendar]
-
-— [firma]
-
----
-
-## Email 3 — El mecanismo · delay: +2-3 días
-**ASUNTO:** [...]
-
-[cuerpo]
-
-[CTA → agendar]
-
-— [firma]
-
----
-
-## Email 4 — Objeción real #1 · delay: +2-3 días
-**ASUNTO:** [...]
-**Objeción que ataca:** "[cita real]"
-
-[cuerpo — conversación, no lista]
-
-[CTA → agendar]
-
-— [firma]
-
----
-
-## Email 5 — Caso / prueba · delay: +3 días
-**ASUNTO:** [...]
-
-[cuerpo — caso narrado como anécdota]
-
-[CTA → agendar]
-
-— [firma]
-
----
-
-## Email 6 — Objeción #2 + urgencia honesta · delay: +3-4 días
-**ASUNTO:** [...]
-**Objeción que ataca:** "[cita real]" · **Escasez:** [capacidad real]
-
-[cuerpo]
-
-[CTA → agendar]
-
-— [firma]
-
----
-
-## Email 7 — Última llamada · delay: +3-4 días
-**ASUNTO:** [...]
-
-[cuerpo — cierre honesto y despreocupado]
-
-[CTA → agendar]
-
-— [firma]
-
-<!-- Ampliar a 12-18 emails si la lista/ticket lo justifica, manteniendo el arco. -->
+<!-- 1-8: 200-350 palabras · 9-20: 400-700. 3 golpes siempre. Texto plano. -->

@@ -1,62 +1,33 @@
 # Secuencia Hammer Them (pre-llamada) — [cliente]
 
-> Entre el booking y la call. Que aparezca y aparezca caliente (show rate).
-> Cortos, en la voz del cliente, texto plano. Se cruza con la TYP.
+> Hasta 16 emails en 3 días (mín. 36h booking→call). Que la llamada sea de
+> evaluación, no de venta. Sin CTA de venta. Texto plano, firma personal.
+> Doctrina y reglas: `referencia/hammer-them.md`.
 
-**Tipo de llamada:** [estrategia / demo / diagnóstico / venta]
-**Ventana booking → call:** [24h / 7 días…]
-**Precio de la oferta:** [ticket]
-**Show rate actual:** [% o "no corre aún"]
-**Voz:** [voice-profile.md]
+**Tipo de llamada:** [estrategia/demo/diagnóstico] · **Ventana:** [72h/48h/36h]
+**Audiencia:** [B2B affluent / B2C no affluent] · **Show rate actual:** [%]
+**Remitente:** [nombre] · **Voz:** [voice-profile.md]
+**5 objeciones reales (de llamadas):** [1-5] · **Casos:** [2+ con números]
 
----
+## Cronograma (según ventana — ver distribución en referencia)
 
-## Email 1 — Confirmación con personalidad · gatillo: booking · delay: inmediato
-**ASUNTO:** [no "Confirmación de tu llamada"]
+| # | Email | Pilar | Timing |
+|---|---|---|---|
+| 1 | Confirmación + qué esperar | Questions | inmediato al booking |
+| … | … | … | … |
+| 14 | Inversión (B2B rangos / B2C sin precio) | Expectations | ~2 días antes |
+| 16 | Último recordatorio | Expectations | 1-2h antes |
 
-[Reencuadra qué es la llamada y qué no · baja la guardia · remite a la TYP]
+## Emails (formato por email; repite los 16)
 
-[CTA: ver la TYP / preparar]
+### Email 1 — Confirmación + qué esperar · Questions · inmediato
+**Asunto A:** [específico, tipo mensaje de amigo] · **Asunto B:** [alternativo A/B]
+**Objetivo:** [1 frase]
 
-— [firma]
+[Cuerpo — denso en sustancia pero <2 min / ~300 palabras, UNA idea]
+[CTA: confirmar / ver recurso / responder — NUNCA venta]
 
----
+— [firma: nombre personal]
 
-## Email 2 — Prepara y sube el deseo · gatillo: booking · delay: +1 día / mitad de ventana
-**ASUNTO:** [...]
-
-[qué va a pasar + mini-caso o idea que aumenta las ganas]
-
-— [firma]
-
----
-
-## Email 3 — Baja el miedo a la llamada · delay: antes de la víspera
-**ASUNTO:** [...]
-**Objeción pre-call que ataca:** "[me van a vender / no estoy listo / no tengo tiempo]"
-
-[cuerpo — conversación]
-
-— [firma]
-
----
-
-## Email 4 — Víspera · gatillo: 24h antes
-**ASUNTO:** [...]
-
-[recordatorio + por qué merece la pena aparecer + reconfirma hora/zona + remite TYP]
-
-— [firma]
-
----
-
-## Email 5 — Día de la llamada (EL MÁS IMPORTANTE) · gatillo: X horas antes
-**ASUNTO:** [destaca en el inbox]
-
-[hora exacta + link + qué va a pasar + último empujón emocional. Corto y caliente.]
-
-[CTA: entrar a la llamada]
-
-— [firma]
-
-<!-- Ajusta el nº de emails a la ventana: 24-48h → 3-4; 3-7 días → 5-7. -->
+<!-- Email 14 cambia por audiencia. Email 16 corto (4-6 frases). Desactiva
+recordatorios de Calendly. Enlaza a TYP/vídeos donde aporte. -->

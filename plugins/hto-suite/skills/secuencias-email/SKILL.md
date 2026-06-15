@@ -75,19 +75,24 @@ voz del cliente. Lo que falte y no puedas conseguir, márcalo `[FALTA: x]`.
 
 ## Modo CREAR — Repesca
 
-Secuencia para **aplicó pero no agendó**. Detalle en `referencia/repesca.md`.
-Arco por defecto (~5-7 emails, ampliable): recordatorio suave → coste de seguir
-igual → mecanismo → objeción real #1 → caso/prueba → objeción #2 + urgencia
-honesta → última llamada. Drip con delays relativos al email anterior. Cada CTA
-remite a agendar, despreocupado.
+Secuencia para **aplicó pero no agendó**. Detalle completo en
+`referencia/repesca.md`. Arquitectura HTO: **20 emails = 8 intensos (días 1-7,
+1/día, 200-350 palabras) + 12 largos (días 8-30, cada 2 días, 400-700)**.
+Combina 5 arquetipos (recordatorio · dolor+caso · objeción · historia+insight ·
+cierre). Flujo en orden: **Voice Fingerprint + diagnóstico → plan de los 20
+(revísalo con el usuario) → escritura → self-audit**. Trigger: form submitted +
+no agendada + >60 min. Hiper-relevancia al formulario en los emails 1-5.
 
 ## Modo CREAR — Hammer Them
 
-Secuencia **booking → call**. Detalle en `referencia/hammer-them.md`. Único
-trabajo: que aparezca y aparezca caliente. Número de emails según la ventana
-(24-48h → 3-4; 7 días → 5-7). Por email: **gatillo + delay + asunto + cuerpo +
-CTA**. El **último email (día de la call) es el más importante**; si solo se
-borda uno, ese. Se cruza con la TYP (se remiten entre sí).
+Secuencia **booking → call**. Detalle en `referencia/hammer-them.md`.
+Arquitectura HTO: **hasta 16 emails en 3 días** (mínimo 36h entre booking y
+call). Cada email cae en uno de los 4 pilares (Questions · 2nd Layer ·
+Objections · Expectations). Objetivo: que la llamada sea de **evaluación, no de
+venta**. **Sin CTA de venta** — solo confirmar/ver recurso/responder. El **Email
+14 (inversión)** es el que más cambia entre B2B (rangos) y B2C (sin precios). El
+**Email 16 (día de la call)** sustituye los recordatorios de Calendly. Se cruza
+con la TYP.
 
 ## Modo REVISAR
 
