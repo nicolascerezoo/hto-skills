@@ -45,17 +45,33 @@ Esta skill es parte de una suite. Comparte la carpeta del cliente
 
 Si no está claro, pregúntalo en una frase.
 
-## Antes de escribir: reúne el contexto
+## Antes de escribir: intake (pregunta en orden, una cosa a la vez)
 
-De la carpeta del cliente o preguntando:
-- **La oferta** (`oferta-interna.md` / `carta-presentacion.md`): promesa,
-  mecanismo, prueba, garantía. Los emails venden ESA oferta.
-- **El mapa de objeciones** (`objeciones-llamadas.md` si existe): los emails de
-  objeción se construyen sobre objeciones reales, no inventadas.
-- **La voz** (`voice-profile.md`).
-- **Para hammer them**, además: tipo de llamada (estrategia/demo/diagnóstico),
-  ventana booking→call (¿24h? ¿7 días? cambia todo), precio de la oferta, y
-  show rate actual si ya corre.
+**No escribas ni un email hasta tener contexto total.** Pregunta en este orden,
+**esperando respuesta antes de pasar a la siguiente** (no dispares todo de
+golpe), y rellena en silencio lo que ya exista en `ofertas/<cliente>/`:
+
+1. **¿Qué secuencia?** repesca / hammer them / las dos.
+2. **La oferta.** Si existe `oferta-interna.md` / `carta-presentacion.md`, léela
+   y confírmala con el usuario; si no, pídela (promesa, mecanismo, prueba,
+   garantía). Los emails venden ESA oferta.
+3. **La voz** (crítico — es lo que separa "carta de un amigo" de "robot"). Si
+   existe `voice-profile.md`, úsalo. Si no, **pide transcripciones** de la
+   persona que firma los emails, en este orden de preferencia: entrevistas/
+   podcasts sin guion > llamadas de venta grabadas > VSLs/webinars previos >
+   YouTube/directos. Con ese corpus, **construye el voice-profile primero**
+   (activo compartido por toda la suite) y escribe en esa voz. Sin material →
+   avísalo y escribe en tono neutro con nota.
+4. **Objeciones reales.** Si existe `objeciones-llamadas.md`, úsalo. Si no,
+   **pide 3-5 transcripciones de llamadas de venta** —sobre todo las que NO
+   cerraron— y extrae las objeciones reales rankeadas. Los emails de objeción se
+   construyen sobre eso, NUNCA sobre suposiciones.
+5. **Solo para hammer them**, además: tipo de llamada (estrategia/demo/
+   diagnóstico), ventana booking→call (¿24h? ¿7 días? cambia toda la secuencia),
+   precio de la oferta, y show rate actual si ya corre.
+
+Solo cuando tengas esto, escribe — estructura Isra (`estilo-isra-bravo.md`) +
+voz del cliente. Lo que falte y no puedas conseguir, márcalo `[FALTA: x]`.
 
 ## Modo CREAR — Repesca
 
