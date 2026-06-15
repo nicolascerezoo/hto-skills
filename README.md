@@ -19,6 +19,11 @@ Construye o audita guiones de VSL. Crea el guion desde la oferta, revisa un
 guion antes de grabar, audita una transcripción, o diagnostica un VSL por sus
 métricas. Calibra tono y duración según el comprador.
 
+### `secuencias-email`
+Escribe o audita secuencias de email estilo carta-de-amigo (Isra Bravo) en la
+voz del cliente: **repesca** (reactivar a quien no agendó) y **hammer them**
+(emails pre-llamada para subir el show rate).
+
 ---
 
 ## Instalar en Claude Code (una instalación = ambas skills)
