@@ -12,7 +12,7 @@ ENV_FILE="/Users/nicolascerezoo/mega-brain/.env"
 MSG="${1:-Sync suite hto}"
 
 # Skills que componen la suite
-SKILLS=(oferta-irresistible vsl-script secuencias-email)
+SKILLS=(oferta-irresistible vsl-script secuencias-email landing-copy)
 
 # Archivos internos que NUNCA se publican (se excluyen en TODAS las skills)
 EXCLUDES=(--exclude '.gitignore' --exclude 'ofertas/' --exclude '.DS_Store' \

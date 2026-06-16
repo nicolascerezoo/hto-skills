@@ -24,6 +24,11 @@ Escribe o audita secuencias de email estilo carta-de-amigo (Isra Bravo) en la
 voz del cliente: **repesca** (reactivar a quien no agendó) y **hammer them**
 (emails pre-llamada para subir el show rate).
 
+### `landing-copy`
+Escribe o audita el copy de la landing del embudo, con foco en el **hero**
+(eyebrow + headline + subheadline). Objetivo único: que pulsen play en el VSL.
+Exige congruencia con el anuncio que trae el tráfico.
+
 ---
 
 ## Instalar en Claude Code (una instalación = ambas skills)
