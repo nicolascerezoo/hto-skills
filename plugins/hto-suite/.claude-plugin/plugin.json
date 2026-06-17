@@ -1,7 +1,7 @@
 {
   "name": "hto-suite",
-  "description": "Suite de skills de High Ticket Operator para construir activos de venta high-ticket en español: ofertas irresistibles y guiones de VSL. Comparten el perfil de voz del cliente y la carpeta de trabajo por cliente.",
-  "version": "1.1.0",
+  "description": "Suite de 8 skills de High Ticket Operator para construir el embudo de venta high-ticket en español, paso a paso: estudio de mercado/ICP, oferta, VSL, landing, thank you page, secuencias de email, scripts de setter y campaña de inyección de cash. Comparten el perfil de voz del cliente y la carpeta de trabajo por cliente.",
+  "version": "1.2.0",
   "author": {
     "name": "High Ticket Operator",
     "url": "https://highticketoperator.io"
